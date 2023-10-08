@@ -1,4 +1,4 @@
-package ifProgramslist;
+package ifElseProgramsList;
 
 public class GreterNumber {
 
